@@ -1,0 +1,8 @@
+name: "Nayantara Roy"
+output_die = "."
+
+output:
+  html_document:
+    theme: flatly
+    toc: True
+    
